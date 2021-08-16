@@ -86,12 +86,13 @@
         "coingeckoId": "solana"
       }
     },
+    
     {
       "chainId": 101,
       "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USD Coin",
-      "decimals": 6,
+      "decimals": 6,d
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
       "tags": [
         "stablecoin"
@@ -11726,3 +11727,4 @@
     "patch": 2
   }
 }
+
